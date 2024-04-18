@@ -1,11 +1,24 @@
-# 应用关闭助手
+<div align="center">
+    <h1>exeStop应用管理助手</h1>
+    <img src="https://img.shields.io/github/license/JasonYANG170/exeStop?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/exeStop?style=for-the-badge">
+	<img src="https://img.shields.io/github/languages/count/JasonYANG170/exeStop?logo=python&style=for-the-badge">
+	<br>
+    	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+  <br>
+
+这是一项基于MFC的应用管理助手软件
+  
+<br>
+
+</div>
+
+
+
 程序无法关闭？想定时关闭程序？不希望程序偷偷启动？不想让别人在你电脑上使用程序？
 
 快来试试吧！
 
-发布V1.5.0版本
-
-**现项目功能合并至"健康守护"项目**
 
 支持定时关闭程序，支持直接关闭程序，支持禁止程序启动。
 # 使用说明
