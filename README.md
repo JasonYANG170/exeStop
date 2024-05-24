@@ -5,6 +5,8 @@
 	<img src="https://img.shields.io/github/languages/count/JasonYANG170/exeStop?logo=python&style=for-the-badge">
 	<br>
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+	  <br>
+  <img src="https://github.com/JasonYANG170/exeStop/assets/39414350/2e348241-9b6b-42c0-b2b8-4df070aedf4e">
   <br>
 
 这是一项基于MFC的应用管理助手软件
