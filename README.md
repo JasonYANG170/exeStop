@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_en.md)
+
 <div align="center">
     <h1>exeStop应用管理助手</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/exeStop?label=License&style=for-the-badge">
